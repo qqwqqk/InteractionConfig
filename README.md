@@ -1,0 +1,2 @@
+# InteractionConfig
+js与php简易数据交互及webpack开发环境与生产环境的基本配置
